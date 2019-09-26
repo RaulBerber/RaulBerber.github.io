@@ -1,5 +1,5 @@
 <center> <h1> <u>Currículum vitae </u></h1></center>
-## <u>Datos personales</u>
+### <u>Datos personales</u>
 
 **Nombre:** Raul Berber Plana
 
