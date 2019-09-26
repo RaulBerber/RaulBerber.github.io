@@ -23,13 +23,19 @@
 **Duración:** Del 2011 al 2015
 
 **Titulo:** Grado Medio Instalaciones Eléctricas y Automáticas
+
 **Instituto:** Instituto Andreu Nin
+
 **Lugar:** El Vendrell, Tarragona,España
+
 **Duración:** Del 2015 al 2017
 
 **Titulo:** Grado Superior Informática
+
 **Instituto:** Instituto Camí de Mar
+
 **Lugar:** Calafell, Tarragona,España
+
 **Duración:** En Curso
 
 ###  <u>Idiomas</u>  
