@@ -15,8 +15,11 @@
 ### <u>Estudios</u>
 
 **Titulo:** Educación Secundaria Obligatoria
+
 **Instituto:** Instituto Baix Penedès
+
 **Lugar:** El Vendrell, Tarragona,España
+
 **Duración:** Del 2011 al 2015
 
 **Titulo:** Grado Medio Instalaciones Eléctricas y Automáticas
