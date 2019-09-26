@@ -2,9 +2,13 @@
 ## <u>Datos personales</u>
 
 **Nombre:** Raul Berber Plana
+
 **DNI:** 77792983Z
+
 **Dirección:** Calle Montsià,28, 43700, Tarragona,España
+
 **Teléfono:** 618753278
+
 **Correo: ** raul220713@gmail.com
 
 ### <u>Estudios</u>
